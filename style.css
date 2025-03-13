@@ -160,3 +160,10 @@ body{
 .home-sci a:hover:before{
     width: 100%;
 }
+@media screen and (max-width: 600px)
+{
+    h1{
+        front-size: 36px;
+        line-height: 50px;
+    }
+}
